@@ -1,0 +1,22 @@
+newmtl Material__28
+illum 4
+Kd 0.91 0.69 0.58
+Ka 0.91 0.69 0.58
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material__790
+illum 4
+Kd 0.91 0.69 0.58
+Ka 0.91 0.69 0.58
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
