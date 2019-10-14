@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# 作成したファイル : 03.10.2019 12:17:42
+# 作成したファイル : 14.10.2019 18:02:15
 
 newmtl wire_148177027
 	Ns 32
@@ -9,16 +9,6 @@ newmtl wire_148177027
 	illum 2
 	Ka 0.5804 0.6941 0.1059
 	Kd 0.5804 0.6941 0.1059
-	Ks 0.3500 0.3500 0.3500
-
-newmtl wire_087225198
-	Ns 32
-	d 1
-	Tr 0
-	Tf 1 1 1
-	illum 2
-	Ka 0.3412 0.8824 0.7765
-	Kd 0.3412 0.8824 0.7765
 	Ks 0.3500 0.3500 0.3500
 
 newmtl wire_228214153
@@ -61,16 +51,6 @@ newmtl wire_153228184
 	Kd 0.6000 0.8941 0.7216
 	Ks 0.3500 0.3500 0.3500
 
-newmtl wire_006135006
-	Ns 32
-	d 1
-	Tr 0
-	Tf 1 1 1
-	illum 2
-	Ka 0.0235 0.5294 0.0235
-	Kd 0.0235 0.5294 0.0235
-	Ks 0.3500 0.3500 0.3500
-
 newmtl Material__409
 	Ns 10.0000
 	Ni 1.5000
@@ -103,6 +83,16 @@ newmtl wire_176026026
 	Kd 0.6902 0.1020 0.1020
 	Ks 0.3500 0.3500 0.3500
 
+newmtl wire_006135006
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0235 0.5294 0.0235
+	Kd 0.0235 0.5294 0.0235
+	Ks 0.3500 0.3500 0.3500
+
 newmtl wire_154185229
 	Ns 32
 	d 1
@@ -124,3 +114,30 @@ newmtl Material__708
 	Kd 0.2157 0.1176 0.0510
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
+
+newmtl eye
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 0.9608 0.9608
+	Kd 1.0000 0.9608 0.9608
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.2500 0.2402 0.2402
+	map_Ka P:\AS17\AS17卒展\AS17_18_3dsmaxDatas\Bitmaps\nick_EYE.jpg
+	map_Kd P:\AS17\AS17卒展\AS17_18_3dsmaxDatas\Bitmaps\nick_EYE.jpg
+
+newmtl eye2
+	Ns 0.0000
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_refl P:\AS17\AS17卒展\AS17_18_3dsmaxDatas\Bitmaps\nick_EYE.png
