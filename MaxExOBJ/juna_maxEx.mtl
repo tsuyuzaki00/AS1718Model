@@ -1,4 +1,4 @@
-newmtl Material__712
+newmtl Material__723
 illum 4
 Kd 0.22 0.12 0.05
 Ka 0.22 0.12 0.05
@@ -6,13 +6,31 @@ Tf 1.00 1.00 1.00
 Ni 1.50
 Ks 0.00 0.00 0.00
 Ns 10.00
+newmtl eye
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nick_EYE.jpg
+map_Ka nick_EYE.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl eye14
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 0.00
 newmtl initialShadingGroup
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl wire_229166220
+newmtl wire_229166262
 illum 4
 Kd 0.57 0.11 0.69
 Ka 0.57 0.11 0.69
@@ -20,7 +38,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.35 0.35 0.35
 Ns 32.00
-newmtl wire_229166221
+newmtl wire_229166263
 illum 4
 Kd 0.58 0.69 0.11
 Ka 0.58 0.69 0.11
@@ -28,7 +46,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.35 0.35 0.35
 Ns 32.00
-newmtl wire_229166223
+newmtl wire_229166265
 illum 4
 Kd 0.60 0.89 0.72
 Ka 0.60 0.89 0.72
@@ -36,7 +54,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.35 0.35 0.35
 Ns 32.00
-newmtl wire_229166226
+newmtl wire_229166268
 illum 4
 Kd 0.89 0.84 0.60
 Ka 0.89 0.84 0.60
@@ -44,7 +62,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.35 0.35 0.35
 Ns 32.00
-newmtl wire_229166229
+newmtl wire_229166270
 illum 4
 Kd 0.90 0.65 0.84
 Ka 0.90 0.65 0.84
